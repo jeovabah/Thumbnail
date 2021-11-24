@@ -20,6 +20,7 @@
     <title>Download Thumbnail ou Fotos</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
+    <link rel="shortcut icon" href="./img/play.png" type="image/x-icon">
 </head>
 <body> 
     <main class="container">
